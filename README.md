@@ -19,8 +19,7 @@
 
 <br>
 
-https://github.com/user-attachments/assets/PENDING-share
-
+<p align="center"><video src="media/demo-share.mp4" controls muted loop playsinline width="100%"></video></p>
 <sub align="center">Real capture, not a mock-up. One PC plays both host (Maya) and guest (Leo), sharing its 3840×2160 screen to itself, so the nested windows are the tunnel effect of watching your own screen.</sub>
 
 <br>
@@ -44,8 +43,7 @@ Most screen sharing tools send your screen to somebody else's servers first. Hon
 
 One button gives you a **room code** and a separate **PIN**. Send them by two different routes and nobody who sees just one gets in. Your guest pastes both, and you see exactly who is knocking, including their **key fingerprint**, before you let them in.
 
-https://github.com/user-attachments/assets/PENDING-connect
-
+<p align="center"><video src="media/demo-connect.mp4" controls muted loop playsinline width="100%"></video></p>
 <sub>Works on the same Wi-Fi or across the world, with no router setup. The code and IP in this recording are blurred.</sub>
 
 <br>
@@ -66,8 +64,7 @@ Pick the monitor, frame rate and resolution. Each viewer is sent what *their* sc
 
 Messages and files travel over the same encrypted connection. Images preview inline, chat is saved on your machine and restored next time, and there is nothing to upload to anyone's cloud.
 
-https://github.com/user-attachments/assets/PENDING-chat
-
+<p align="center"><video src="media/demo-chat.mp4" controls muted loop playsinline width="100%"></video></p>
 <br>
 
 ## What you get
