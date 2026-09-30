@@ -19,9 +19,7 @@
 
 <br>
 
-<p align="center"><a href="https://github.com/user-attachments/assets/450ad874-70fa-41a2-baf1-2d1e52fbe1b7"><img src="media/demo-share.webp" alt="A live 4K screen share arriving on the guest's side" width="100%"></a></p>
-
-<p align="center"><sub>▶ <a href="https://github.com/user-attachments/assets/450ad874-70fa-41a2-baf1-2d1e52fbe1b7">Watch in full quality (1080p, 60 fps)</a></sub></p>
+https://github.com/user-attachments/assets/450ad874-70fa-41a2-baf1-2d1e52fbe1b7
 <sub align="center">Real capture, not a mock-up. One PC plays both host (Maya) and guest (Leo), sharing its 3840×2160 screen to itself, so the nested windows are the tunnel effect of watching your own screen.</sub>
 
 <br>
@@ -45,9 +43,7 @@ Most screen sharing tools send your screen to somebody else's servers first. Hon
 
 One button gives you a **room code** and a separate **PIN**. Send them by two different routes and nobody who sees just one gets in. Your guest pastes both, and you see exactly who is knocking, including their **key fingerprint**, before you let them in.
 
-<p align="center"><a href="https://github.com/user-attachments/assets/ff529b37-ea88-4c7f-a676-0cc43fd10e24"><img src="media/demo-connect.webp" alt="Starting a room, sharing the code and PIN, and letting a guest in" width="100%"></a></p>
-
-<p align="center"><sub>▶ <a href="https://github.com/user-attachments/assets/ff529b37-ea88-4c7f-a676-0cc43fd10e24">Watch in full quality (1080p, 60 fps)</a></sub></p>
+https://github.com/user-attachments/assets/ff529b37-ea88-4c7f-a676-0cc43fd10e24
 <sub>Works on the same Wi-Fi or across the world, with no router setup. The code and IP in this recording are blurred.</sub>
 
 <br>
@@ -68,9 +64,7 @@ Pick the monitor, frame rate and resolution. Each viewer is sent what *their* sc
 
 Messages and files travel over the same encrypted connection. Images preview inline, chat is saved on your machine and restored next time, and there is nothing to upload to anyone's cloud.
 
-<p align="center"><a href="https://github.com/user-attachments/assets/fd2c0e7a-28b0-40ce-9d8b-8469b0b7e8a3"><img src="media/demo-chat.webp" alt="Chatting and sending an image between two people" width="100%"></a></p>
-
-<p align="center"><sub>▶ <a href="https://github.com/user-attachments/assets/fd2c0e7a-28b0-40ce-9d8b-8469b0b7e8a3">Watch in full quality (1080p, 60 fps)</a></sub></p>
+https://github.com/user-attachments/assets/fd2c0e7a-28b0-40ce-9d8b-8469b0b7e8a3
 <br>
 
 ## What you get
