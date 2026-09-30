@@ -21,7 +21,7 @@
 
 https://github.com/user-attachments/assets/PENDING-share
 
-<sub align="center">Real, unedited capture. One PC plays both host and guest, sharing its 3840×2160 screen to itself, so the nested windows are the tunnel effect of watching your own screen.</sub>
+<sub align="center">Real capture, not a mock-up. One PC plays both host (Maya) and guest (Leo), sharing its 3840×2160 screen to itself, so the nested windows are the tunnel effect of watching your own screen.</sub>
 
 <br>
 
@@ -57,6 +57,8 @@ Pick the monitor, frame rate and resolution. Each viewer is sent what *their* sc
 <p align="center">
   <img src="media/shot-video-menu.jpg" alt="Video settings: screen, frame rate up to 160 fps, native 4K resolution" width="760">
 </p>
+
+<p align="center"><sub>The host's window. Each window's header shows the person you're talking to.</sub></p>
 
 <br>
 
